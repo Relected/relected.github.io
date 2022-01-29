@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-This is my persional site for random stupid shit.
+# Welcome to GitHub Pages
+### This is my persional site for random stupid shit.
 
 Hi, i am relected, a random guy who likes computers and tinkering with stuff, i was into computers since i was 6 ears old (as long as i could remember)
 i was fascinated about what computers can archive after i played my first few video game such as *IGI* and *GTA:VC*, some of yall might have heard of them as your childhood games.
@@ -8,15 +8,17 @@ i have been using linux for over two years now, starting with Ubuntu and ending 
 
 i just started learning git to backup my dotfiles and GNU stow for managing them.
 
-if you wanna contact me you can at:
+## if you wanna contact me you can at:
 
+fediverse: **@Relected@shitposter.club**
+fediverse alt: **@Relected@nixnet.social**
 matrix: **@relected_:matrix.kiwifarms.net**
 
 email: **relected at cock dot li** (i accept pgp messages with [this pub key](https://keys.openpgp.org/vks/v1/by-fingerprint/DB4FC69B2E9803D8B66C8F004361636F20F5A509) )
 
-# wanna donate （っ＾▿＾） ?
+## wanna donate some coffee（っ＾▿＾）?
 
-monero *recommended*: **83rSogBiJ1e4hbGcf2NSohRhqLuWQxPkoJwWGWToLVtpFB9uS88io6RghpzWfRAbeTen6D3EdWuGJ3hgQsToL7NCQkq9wJq**
+monero: **83rSogBiJ1e4hbGcf2NSohRhqLuWQxPkoJwWGWToLVtpFB9uS88io6RghpzWfRAbeTen6D3EdWuGJ3hgQsToL7NCQkq9wJq**
 
 ![qrcode](https://user-images.githubusercontent.com/61807003/151673316-260b84da-5e14-4a91-9c5a-fea9b5dc924e.png)
 
