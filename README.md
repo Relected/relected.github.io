@@ -1,4 +1,2 @@
 # relected.github.io
-my test site
-
-# HELLO THIS IS REL AGAIN!1!!
+my personal site, for now...
