@@ -22,4 +22,4 @@ monero *recommended*: **83rSogBiJ1e4hbGcf2NSohRhqLuWQxPkoJwWGWToLVtpFB9uS88io6Rg
 
 bitcoin: ***bc1qwr7d94w20ns7jv930yupuvjx4jg6enl8qyv29h*
 
-![bitcoin](https://user-images.githubusercontent.com/61807003/151673507-4468163a-c6f4-4c8c-aef7-5ceaa26cfb73.png)
+![bitcoin](https://user-images.githubusercontent.com/61807003/151673631-eb7663be-6129-434a-aa7d-33ca21bbfce3.png)
