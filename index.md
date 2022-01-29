@@ -1,5 +1,5 @@
 # Welcome to GitHub Pages
-### This is my persional site for random stupid shit.
+### This is my personal site for random stupid shit.
 
 Hi, i am relected, a random guy who likes computers and tinkering with stuff, i was into computers since i was 6 ears old (as long as i could remember)
 i was fascinated about what computers can archive after i played my first few video game such as *IGI* and *GTA:VC*, some of yall might have heard of them as your childhood games.
@@ -11,7 +11,9 @@ i just started learning git to backup my dotfiles and GNU stow for managing them
 ## if you wanna contact me you can at:
 
 fediverse: **@Relected@shitposter.club**
+
 fediverse alt: **@Relected@nixnet.social**
+
 matrix: **@relected_:matrix.kiwifarms.net**
 
 email: **relected at cock dot li** (i accept pgp messages with [this pub key](https://keys.openpgp.org/vks/v1/by-fingerprint/DB4FC69B2E9803D8B66C8F004361636F20F5A509) )
