@@ -12,11 +12,11 @@ i just started learning git to backup my dotfiles and GNU stow for managing them
 
 fediverse: **@Relected@shitposter.club**
 
-fediverse alt: **@Relected@nixnet.social**
+fediverse alt: **@Relected@poa.st**
 
 matrix: **@relected_:matrix.kiwifarms.net**
 
-email: **relected at cock dot li** (i accept pgp messages with [this pub key](https://keys.openpgp.org/vks/v1/by-fingerprint/DB4FC69B2E9803D8B66C8F004361636F20F5A509) )
+Xmpp/email: **relected at cock dot li** (i accept pgp messages with [this pub key](https://keys.openpgp.org/vks/v1/by-fingerprint/DB4FC69B2E9803D8B66C8F004361636F20F5A509) )
 
 ## wanna donate some coffee（っ＾▿＾）?
 
